@@ -19,6 +19,14 @@ It was important to interview two types of potential users in order to identify 
 * What would make it easier on you to take care of plants?
 * Would you consider an app that advised you on “plant parenthood”
 
+### Interview Summary
+* Most people have had a plant die on them and it made them not want to buy any more
+* Work long hours and can't properly take care of plants
+* Often forget to water their plants
+* Have bought fake plants for the 'aesthetic'
+* Are open to taking care of plants
+* Are open to downloading an app to help
+
 ### Pain Points
 
 #### CURRENT PLANT PARENTS
@@ -42,54 +50,46 @@ Demographics:
 * Gender: Female
 * Occupation: Product Manager
 
-Bio: 
+Bio: Kim loves having plants and loves being out in nature in general, however she finds herself indoors more and more due to a recent workload increase. She contemplated the idea of owning plants but has killed the last 5 plant purchases within the span of a couple weeks (including a cactus). She has given up and currently owns a fake succulent from the local dollar store. 
 
-Goal:
+Goals and objectives: She wants to go through their work day and get home to a clean, relaxing environment. With more days spent WFH, she is interested in building a better work envornment at home. 
 
-Look good
-Healthy lifestyle
-Work out more often
-Frustrations:
+Biggest Challenges:
+* Balancing personal life and work life
+* Having no previous knowledge of plants
+* Doesn't know how to start or what plant to buy first
+* Doesn't know a name of a single plant or what each type needs. 
 
-Not knowing how to start
-Unmotivated to maintain a workout routine
+## Competition
 
-Explain what these tests test and why
+### CANDIDE
+* Less of a focus on plant care features
+* Solely information based
+* Links to external articles and posts
+* Allows to keep track of plants
+* Extremely large database
 
-```
-Give an example
-```
+### SANDY
+* More for outside gardening, less of a focus on indoor gardening
+* Focuses on dimensions of plants
+** Uses AR to measure each plant and calculate amount of fertilizer and water needed
+* Not directly relevant to the needs of newbie house plant parents 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## Future development
+The prototype is still in development. Below are possible features that may be implemented in the future. 
+### SPOT TREATING PLANTS
+Using AR to scan plants and to inform the user of problems (fungus gnats, too much sun, too little water, etc.)
+### PLANT SITTING
+The ability to connect with people who can look after plants while the user is away
+### BEGINNER COURSE
+A beginner tutorial for newbies 
+### NOTES
+Add personalized notes about each individual plant
+### SCHEDULE INTEGRATION
+Allow people to make note of their schedule and to create a personalized plant care plan
+### FORUM
+Post issues and get the opinion of others 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip Professor Peter
