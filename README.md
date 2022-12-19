@@ -117,7 +117,7 @@ Open Build Settings and Add Open Scene
 ```
 Create Build Folder and Build APK file for Android
 ```
-```
+
 
 ## Future development
 The prototype is still in development. Below are possible features that may be implemented in the future. 
