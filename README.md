@@ -92,4 +92,5 @@ Post issues and get the opinion of others
 
 ## Acknowledgments
 
-* Hat tip Professor Peter
+* Hat tip to Professor Peter's ImageTracking Lesson
+* Playful Technology's Augmented (AR) tutorial on youtube
