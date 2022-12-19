@@ -75,6 +75,50 @@ Biggest Challenges:
 ** Uses AR to measure each plant and calculate amount of fertilizer and water needed
 * Not directly relevant to the needs of newbie house plant parents 
 
+
+
+## Getting Started: AR Project 
+
+### Prerequisites
+
+This prototype will be created using Unity. Specifically, the AR project setting. To test the prototype, users can use their phones.
+
+### Installing
+
+Follow these steps to create prototype: 
+
+```
+Create AR Core project
+```
+```
+Open Build Settings and Switch Platform to IOS or Android 
+```
+```
+Open Player Settings and install XR Plugin Management 
+```
+```
+Select ARKit Plugin
+```
+```
+Import AR Foundations Samples Unity Package and Download ArCore XR Plugin
+```
+```
+In Player Settings set the Bundle ID and set requires ARKit Support and set allow "Unsafe" code
+```
+```
+In Player Settings Add Description Text to Camera and Location Permissions
+```
+```
+Open Basic Image Tracking Scene 
+```
+```
+Open Build Settings and Add Open Scene
+```
+```
+Create Build Folder and Build APK file for Android
+```
+```
+
 ## Future development
 The prototype is still in development. Below are possible features that may be implemented in the future. 
 ### SPOT TREATING PLANTS
